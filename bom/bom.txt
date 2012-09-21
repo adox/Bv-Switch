@@ -1,0 +1,8 @@
+Switch: PCB 70x90 mm
+Remote: PCB 56x80 mm
+
+Switch - podœwietlenie czerwone:
+http://www.tme.eu/pl/details/pb6149l-1/mikroprzelaczniki-tact-pcb/highly/#	10 szt
+
+MCP23017-E/SO - Uk³ad scalony:16-bit I/O Port Expander; I2C
+http://www.tme.eu/pl/katalog/?idp=1&search=MCP23017&cleanParameters=1		2 szt
